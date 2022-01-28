@@ -1,0 +1,2 @@
+# Notepad-using-Fully-Connected-List-Multi-Linked-List-4-way-Linked-List-in-C-DSA
+In this project, I have made a Notepad using Fully Connected List / Multi-Linked List / 4-way Linked List in C++. It is my own project. Different functionalities used in this project like writing text, Reading the text, deleting files, etc. The main concept in this project is DSA like Linked list. File Handling was also used n this project. It is a very attractive and amazing project, I hope you guys enjoy this project.  Feel free to use and please share and like my project.  Thank You!!
